@@ -1,5 +1,5 @@
 ---
-title: "Do you like my blog?"
+title: "My blog?"
 ---
 
 I'm glad you are here. I plan to talk about ...
